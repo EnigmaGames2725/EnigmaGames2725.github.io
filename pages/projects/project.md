@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Test
-permalink: /project/project1
+permalink: /project/sevensegment
 weight: 1
 ---
 Testing123
