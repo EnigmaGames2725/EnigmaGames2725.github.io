@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /projects/sevensegment
+permalink: /project/sevensegment
 weight: 1
 ---
 Testing123
