@@ -5,12 +5,12 @@ The Displays I made work using a custom module I wrote. This module allows displ
 
 ## Gallery
 
-{% include elements/carousel.html %}
 {% capture carousel_images %}
 /images/rgb-clock.png
 /images/new-years.png
 /images/unix-clock.png
 {% endcapture %}
+{% include elements/carousel.html %}
 
 ## Game Links
 Here are some links to the projects shown above so you can check them out for yourself:
