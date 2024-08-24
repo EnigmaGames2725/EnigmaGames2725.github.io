@@ -23,4 +23,4 @@ Hey there! I'm EnigmaGames, a proffessional scripter with 3+ years of experience
 - Programmer for [Obby Rush](https://www.roblox.com/games/18609008263/Obby-Rush)
 
 ## Projects
-- [Seven Segment Display](/project/sevensegment)
+- [Seven Segment Display](/pages/project/sevensegment)

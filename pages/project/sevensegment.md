@@ -1,7 +1,3 @@
----
-permalink: /project/sevensegment
----
-
 # Seven Segment Display
 I made this project to emulate [Seven Segment Displays](https://en.wikipedia.org/wiki/Seven-segment_display) inside Roblox. Seven-Segments are usually used to display numbers, as their ability to display readable text is extremely limited.
 
