@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /project/sevensegment
-weight: 1
 ---
 
 # Seven Segment Display
@@ -12,9 +11,9 @@ The Displays I made work using a custom module I wrote. This module allows displ
 ## Gallery
 
 {% capture carousel_images %}
-/images/rgb-clock.png
-/images/new-years.png
-/images/unix-clock.png
+{% include elements/figure.html image="/images/rgb-clock.png" caption="RGB Clock" %}
+{% include elements/figure.html image="/images/unix-clock.png" caption="RGB Clock" %}
+{% include elements/figure.html image="/images/new-years.png" caption="RGB Clock" %}
 {% endcapture %}
 {% include elements/carousel.html %}
 
