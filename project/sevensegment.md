@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /project/#sevensegment
+permalink: /project/sevensegment/
 ---
 
 # Seven Segment Display
