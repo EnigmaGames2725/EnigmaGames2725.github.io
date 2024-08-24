@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 permalink: /project/sevensegment
 ---
 
@@ -11,9 +11,9 @@ The Displays I made work using a custom module I wrote. This module allows displ
 ## Gallery
 
 {% capture carousel_images %}
-{% include elements/figure.html image="/images/rgb-clock.png" caption="RGB Clock" %}
-{% include elements/figure.html image="/images/unix-clock.png" caption="RGB Clock" %}
-{% include elements/figure.html image="/images/new-years.png" caption="RGB Clock" %}
+/images/rgb-clock.png
+/images/new-years.png
+/images/unix-clock.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
